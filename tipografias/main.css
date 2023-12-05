@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+
+
+
+section {
+    background-color: beige;
+}
+
+main{
+    width: 90%;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+h1,h3{
+    font-family: Fuente1;
+    text-align: center;
+    padding: 5px;
+}
+
+article{
+    width: 100%;
+
+    background-color: beige;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+article>div{
+    width: 30%;
+    background-color: palevioletred;
+    margin: 1%;
+}
+
+#p1{
+    font-family: 'Roboto', sans-serif;
+}
+
+#p2{
+    font-family: 'Playfair Display', serif;
+}
+
+#p3{
+    font-family: 'Dancing Script', cursive;
+}
+
+#p4{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#p5{
+    font-family: 'Amatic SC', sans-serif;
+}
+
+#p6{
+    font-family: 'Young Serif', serif;
+}
+
+#p7{
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+#p8{
+    font-family: 'Comfortaa', sans-serif;
+}
+
+#p9{
+    font-family: 'Yellowtail', cursive;
+}
