@@ -17,14 +17,13 @@ section {
 
 main{
     width: 90%;
-  
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
 }
 
 h1,h3{
-    font-family: Fuente1;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     padding: 5px;
 }
