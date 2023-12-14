@@ -1,0 +1,11 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+
+}
+
+#cabecera{
+    background-color: rgb(209, 117, 255) !important;
+
+}

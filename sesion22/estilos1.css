@@ -1,0 +1,16 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+
+}
+
+#izq{
+    background-color: rgb(255, 200, 237);
+height: 70vh;
+}
+
+#derc{
+    background-color: aqua;
+    height: 70vh;
+}

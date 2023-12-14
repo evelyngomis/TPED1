@@ -1,0 +1,29 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+
+}
+
+
+#sup{
+    height: 30vh;
+    background-color: rgb(199, 183, 214);
+}
+#izq{
+    background-color: rgb(161, 255, 244);
+height: 70vh;
+}
+
+#derc{
+    background-color: aqua;
+    height: 70vh;
+}
+#dentrosup{
+    background-color: rgb(250, 164, 255);
+    height: 30vh;
+}
+#dentroinf{
+    background-color: rgb(255, 157, 157);
+    height: 40vh;
+}

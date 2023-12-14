@@ -1,0 +1,13 @@
+div, header, footer, main, nav {
+    box-sizing: border-box; /* para que los bordes, paddings estén en la anchura (determinada por col) */
+    background-color: lightgrey;
+    
+    border-style: dashed;
+    border-color: black;
+    border-width: 1px;
+}
+
+.container {
+    background-color: lightslategray;
+}
+
