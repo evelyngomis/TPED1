@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+    }
+  
+    #izq{
+        background-color: rgb(255, 176, 220);
+    
+    }
+    #centro{
+        background-color: rgb(215, 172, 255);
+    }
+    
+    #derc{
+        background-color: aqua;
+        
+    }
+    #centralizq{
+        background-color: rgb(255, 231, 164);
+        height: 40vh;
+    }
+    #centralderc{
+        background-color: rgb(156, 255, 161);
+        height: 40vh;
+    }
+    #bajo{
+        background-color: rgb(255, 210, 152);
+        height: 60vh;
+    }
+
+    #infizq{
+        background-color: rgb(166, 255, 213);
+        height: 30vh;
+    }
+    #infderc{
+        background-color: rgb(196, 164, 255);
+        height: 30vh;
+    }
+
